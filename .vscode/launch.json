@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DBCrack",
+            "request": "launch",
+            "mainClass": "main.DBCrack",
+            "projectName": "DBUltimate_Cracking_c2fa96ac"
+        },
+        {
+            "type": "java",
             "name": "Launch External Terminal",
             "request": "launch",
             "console": "externalTerminal",
