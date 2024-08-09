@@ -178,7 +178,7 @@ public class DBCrack {
 
         // 从 LMMain.encryptLicense() 复制的代码
         LMProduct TEST_PRODUCT = new LMProduct("dbeaver-ue", "DB", "DBeaver Ultimate", "DBeaver Ultimate Edition",
-                "23.3", LMProductType.DESKTOP, new Date(), new String[0]);
+                "24.0", LMProductType.DESKTOP, new Date(), new String[0]);
         String licenseID = LMUtils.generateLicenseId(TEST_PRODUCT);
         LMLicense license = new LMLicense(licenseID, LMLicenseType.ULTIMATE, new Date(), new Date(), (Date) null,
                 LMLicense.FLAG_UNLIMITED_SERVERS, productID, productVersion, ownerID, ownerCompany, ownerName,
