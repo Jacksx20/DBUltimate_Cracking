@@ -9,6 +9,8 @@
 3.       用自己的私钥生成一个License文件导入；
 
 4.       绕过网络校验。
+(1)在hosts文件中配置dbeaver.com的IP为127.0.0.1；
+(2)在配置文件dbeaver.ini中设置lm.debug.mode=true的值
 
 ## 测试环境
 
