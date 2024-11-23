@@ -22,6 +22,6 @@ V1软件版本：UE 23.3.0
 
 
 V2软件版本：UE 24.0.0及以后版本
-最新版本24需要调整一下引入的jar依赖，原来的 org.jkiss.lm_**.jar 改为 com.dbeaver.lm.**.jar 然后修改一下import 路径即可，其他不变
+最新版本24需要调整一下引入的jar依赖，原来的 org.jkiss.lm_*.jar 改为 com.dbeaver.lm.**.jar 然后修改一下import 路径即可，其他不变
 
 ❤️ 仅供学术研究
