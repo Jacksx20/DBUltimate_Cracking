@@ -14,9 +14,9 @@
 
 ## 测试环境
 
-操作系统：Windows11
+操作系统：Windows10、11
 
-Java版本：JDK17
+Java版本：JDK8、17
 
 V1软件版本：UE 23.3.0
 
