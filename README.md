@@ -16,7 +16,7 @@
 
 Java版本：JDK8、17
 
-该V23.0.0分支支持软件版本(所有V24.X.0以前的版本)：UE 23.X.0，若需参考V24.X.0及以后的版本，请查看master分支
+该`V23.0.0`分支支持软件版本(所有V24.X.0以前的版本)：UE 23.X.0，若需参考V24.X.0及以后的版本，请查看[master](https://github.com/Jacksx20/DBUltimate_Cracking)分支
 
 使用时仅需替换对应版本中的两个lib文件及代码中相应文件目录，包含：
 1、org.jkiss.lm_*.jar
