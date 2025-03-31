@@ -14,12 +14,12 @@
 
 ## 测试环境
 
-支持操作系统：Windows10、11、Linux、IOS
+支持操作系统：Windows7、10、11、Linux、IOS
 
 Java版本：JDK8、11、12、17
 
 该`master` 分支支持软件版本：UE 24.X、UE 25.X，若需参考 `UE 23.x`版本，请查看 [V23.0.0](https://github.com/Jacksx20/DBUltimate_Cracking/tree/V23.0.0) 分支
 
-最新版本25需要com.dbeaver.lm.**.jar
+最新版本24.X以后的版本需要调整一下引入的jar依赖，原来的（24.X以前的版本） org.jkiss.lm_*.jar 改为 com.dbeaver.lm.**.jar 然后修改一下import 路径即可，其他不变
 
 ❤️ 仅供学术研究
