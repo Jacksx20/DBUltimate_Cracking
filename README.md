@@ -18,7 +18,7 @@
 
 Java版本：JDK8、11、12、17
 
-软件版本：UE 25.X
+该`master` 分支支持软件版本：UE 25.X，若需参考 `UE 24.x`版本，请查看 [V24.0.0](https://github.com/Jacksx20/DBUltimate_Cracking/tree/V24.0.0) 分支
 
 最新版本25需要com.dbeaver.lm.**.jar
 
