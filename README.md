@@ -12,8 +12,12 @@
 
 ## 测试环境
 
-操作系统：Windows11
+操作系统：Windows7、10、11、IOS
 
-Java版本：JDK17
+Java版本：JDK8、17
 
-软件版本：UE 23.3.0
+支持软件版本(所有V24.X.0以前的版本)：UE 23.X.0
+
+使用时仅需替换对应版本中的两个lib文件及代码中相应文件目录，包含：
+1、org.jkiss.lm_*.jar
+2、org.jkiss.utils_*.jar
